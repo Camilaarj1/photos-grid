@@ -24,12 +24,6 @@ main {
   columns: 2;
 }
 
-img {
-  width: 100%;
-  border-radius: 12px;
-  margin-bottom: 20px;
-}
-
 ion-icon {
   color: red;
   font-size: 24px;
